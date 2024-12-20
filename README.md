@@ -1,4 +1,4 @@
-# SafeScan
+# Project Overview
 
 ## Team details
 
