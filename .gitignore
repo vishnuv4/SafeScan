@@ -1,0 +1,18 @@
+
+# editors
+*.swp
+*~
+
+# build
+**/build
+**/build_1
+
+# Remove west environment directories for version controll
+**/bootloader
+**/test
+**/.west
+**/tools
+**/modules
+**/nrfxlib
+**/nrf
+**/zephyr

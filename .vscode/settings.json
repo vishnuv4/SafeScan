@@ -1,0 +1,11 @@
+{
+    "git.enabled": false,
+    "nrf-connect.applications": [
+        "${workspaceFolder}\\nrf\\samples\\net\\aws_iot"
+    ],
+    "files.associations": {
+        "spi.h": "c",
+        "gpio.h": "c",
+        "device.h": "c"
+    }
+}
