@@ -8,7 +8,7 @@ Team members: Vishnu Venkatesh, Nami Lindquist, Yadnik Bendale
 
 [Website GitHub Repo](https://github.com/ese5180/fp-f24-report-website-t04-safescan)
 
-## Project
+## Project Abstract
 
 Our IoT venture pitch was a product designed for hospitals, specifically surgery rooms, to detect and thereby reduce Retained Foreign Objects (RFOs). RFOs are medical instruments and equipment left behind in a patient after surgery, and can lead to severe consequences. Statistics reveal that an estimated 1,500 RFO cases occur annually in the US alone - this is exacerbated by the high-pressure environment of a surgery room, miscommunication, complexity of the surgery, and other factors that are a fixture of surgery rooms. Each RFO incident costs hospitals significant amounts in terms of medical expenses, legal liabilities, and reputational damage.
 
